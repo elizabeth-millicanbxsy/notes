@@ -14,3 +14,6 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-11-18
 - "Today's programming wisdom is to write code that is clear and easy to understand, rather than overly complex and difficult to read. This means using descriptive variable names, writing concise and well-structured functions, and commenting your code thoroughly. Remember, code is written once but read many times, so make it easy for others (and your future self) to follow your logic and understand your code."
+
+# 2023-11-19
+- "Programming wisdom for today: Always comment your code. Not only does it make your code more understandable for others, but it also helps you remember why you made certain decisions when you revisit your code in the future."
