@@ -30,3 +30,6 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 7. Test your codes by writing unit tests and integrating them with continuous integration tools to identify and fix potential issues early on.      
 8. Learn from others' code and practices, constantly improving your own skills and knowledge.        
 9. Stay up-do-date with the latest programming languages, tools, frameworks, best-practices, technologies, trends, research, news, blogs, forums, podcasts, books, courses, conferences, meetups, workshops, tutorials, videos, slides, cheat sheets, infographics, wikis, manuals, guides, lists, quizzes, tips, tricks, hacks, secrets, codes, alphabets, anagrams, acronyms, abbreviations, initials, numerals, symbols, emojis and other related stuff.
+
+# 2023-11-21
+- "Keep it simple, stupid!"
