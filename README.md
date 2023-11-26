@@ -48,3 +48,6 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 To be successful, you must also have a solid foundation in core programming concepts, such as data structures, algorithms, software engineering, debugging, testing, version control, etc. These skills will enable you to create efficient, maintainable,and scalable software solutions. 
  - Learn from experienced professionals and participate in online forums and communities to stay up-to-date with the latest developments in the industry. This will also help build your network and find like-minded individuals who can help and support you in your journey.
+
+# 2023-11-26
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." This quote by Martin Golding emphasizes the importance of writing clean, well-structured, and easily understandable code to make life easier for those who will work with it in the future.
