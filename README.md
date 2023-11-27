@@ -51,3 +51,6 @@ To be successful, you must also have a solid foundation in core programming conc
 
 # 2023-11-26
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." This quote by Martin Golding emphasizes the importance of writing clean, well-structured, and easily understandable code to make life easier for those who will work with it in the future.
+
+# 2023-11-27
+- "Programming wisdom for today: Always comment your code. It's not only helpful for yourself when you revisit your project in the future, but also for others who may need to work on it. Clear and concise comments can greatly improve the readability and maintainability of your code."
