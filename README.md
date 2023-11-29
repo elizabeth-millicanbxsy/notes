@@ -57,3 +57,6 @@ To be successful, you must also have a solid foundation in core programming conc
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+
+# 2023-11-29
+- "Keep it simple, stupid!"
