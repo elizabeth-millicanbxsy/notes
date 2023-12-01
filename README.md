@@ -63,3 +63,6 @@ To be successful, you must also have a solid foundation in core programming conc
 
 # 2023-11-30
 - "Programming wisdom for today: Always comment your code. It's not only helpful for yourself when you revisit your code in the future, but also for others who may need to read or work with it. Clear and concise comments can greatly improve the readability and maintainability of your code."
+
+# 2023-12-01
+- "Keep it simple, stupid!"
