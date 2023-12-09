@@ -97,3 +97,10 @@ Planning ahead is essential to avoid last-minute stress and ensure your projects
 
 # 2023-12-08
 - "Keep it simple, stupid!"
+
+# 2023-12-09
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you are focusing on the right things and making progress towards your goals.
+
+Secondly, planning ahead is essential. Before starting a new project or undertaking a large task, take the time to plan out your approach. Think about the different stages involved, the resources you will need,and the potential challenges you may encounter. Through proper planning,you can avoid getting stuck or spending unnecessary time on tasks that may not be productive. 
+ 　　
+Finally, staying organized is crucial for success in programming. Use version control systems, like Git, to keep track of your code and collaborate with others. Organize your project folders and files in a logical manner, making it easy to find and access the information you need. Additionally, use code editors and integrated development environments (IDEs) that support automation and quick coding, such as IntelliSense or code completion, which will save you time and reduce the likelihood of making mistakes.
