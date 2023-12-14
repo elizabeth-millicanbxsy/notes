@@ -120,3 +120,8 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-13
 - Today's programming wisdom is to write code that is readable, maintainable, and scalable. This means using clear and concise variable names, commenting your code effectively, and organizing it into logical modules or functions. It also means anticipating future changes or additions to the code, and designing it in a way that makes those changes easy to implement. By prioritizing readability, maintainability, and scalability, you can save yourself and your team time and headaches down the road, and ensure that your code remains effective and efficient over time.
+
+# 2023-12-14
+- "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote emphasizes that optimizing code too early in the development process can lead to unnecessary complexity and wasted time. It's important to first focus on writing clear, correct code that meets requirements, and only optimize when profiling has identified specific performance bottlenecks.
