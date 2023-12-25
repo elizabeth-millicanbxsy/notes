@@ -159,3 +159,16 @@ Use task management tools, such as Trello or Asana, to keep track of your progre
 
 # 2023-12-24
 - "Keep it simple, stupid!"
+
+# 2023-12-25
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Stay current with technology: Keep an eye on new developments and trends in your field to understand what skills are in demand.
+2. Learn new programming Languages: Expand your skill set by learning new languages, such as Python, JavaScript, or Ruby. This will make you more versatile and attractive to potential employers. 
+3. Practice regularly: Programming is a skill that requires constant practice to maintain and improve. Set aside time each day or week to practice coding challenges and projects.  
+4. Attend workshops and conferences: These events are great ways to learn from industry experts, network with other professionals, and discover new tools and technologies.   
+5. Collaborate with others: Sharing knowledge and working together with fellow programmers can help improve your skills and lead to more innovative solutions.    
+6. Seek feedback: Ask for feedback on your work from peers or mentors to identify areas for improvement and develop a growth mindset.     
+7. Don't be afraid to ask questions: Asking questions is an essential part of learning, so don' t be shy about seeking clarification or help when you' re stuck on a problem.      
+8. Keep a portfolio of your projects: Document and showcase your completed projects to demonstrate your expertise and skills to employers or clients.       
+9. Continuously reflect on and learn: Take time to reflect upon your experiences and the lessons you’ ve learned, then apply those lessons to your future projects and growth as an engineer.
