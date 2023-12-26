@@ -172,3 +172,6 @@ Use task management tools, such as Trello or Asana, to keep track of your progre
 7. Don't be afraid to ask questions: Asking questions is an essential part of learning, so don' t be shy about seeking clarification or help when you' re stuck on a problem.      
 8. Keep a portfolio of your projects: Document and showcase your completed projects to demonstrate your expertise and skills to employers or clients.       
 9. Continuously reflect on and learn: Take time to reflect upon your experiences and the lessons you’ ve learned, then apply those lessons to your future projects and growth as an engineer.
+
+# 2023-12-26
+- "Keep it simple, stupid!"
