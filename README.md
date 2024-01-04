@@ -212,3 +212,14 @@ Second, planning ahead is crucial. Before starting a project, think about the st
 
 One way to achieve this is by setting aside time each week to read and research related to programming. You can find articles, blogs, and tutorials online that cover a wide range of topics, from new programming language releases to industry best practices. By staying informed, you' ll be better equipped to tackle new challenges and contribute to projects more effectively. 
  此外，建立一个强大的个人项目库也是一个好主意。通过创建自己的项目，你可以练习新技能，提高编程水平，并在求职或晋升时展示你的能力。此外,与他人合作是提高技能和提高编程智慧的另一个重要方面。加入开源项目或与同事一起构建新项目可以帮助你学习新技巧，同时也能让你了解如何在团队中有效地工作。最后，不要忘记保持耐心和毅力。学习编程可能是一个漫长的过程，但通过不断实践和努力，你将能够掌握新技能和适应不断变化的技术环境。
+
+# 2024-01-04
+- "Today's programming wisdom is to embrace the SOLID principles. SOLID, an acronym for Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion, reminds us to write clean, maintainable, and scalable code. Each principle advocates a design practice that enhances the quality of our software systems: 
+
+- Single Responsibility Principle (SRP): A class should have only one reason to change.
+- Open-Closed Principle (OCP): Software entities should be open for extension but closed for modification.
+- Liskov Substitution Principle (LSP): Derived classes must be substitutable for their base classes.
+- Interface Segregation Principle (ISP): Clients should not be forced to depend on methods they do not use.
+- Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules; both should depend on abstractions.
+
+By adhering to these principles, we foster robust, adaptable, and future-proof codebases."
