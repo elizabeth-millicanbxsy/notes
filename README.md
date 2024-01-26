@@ -326,3 +326,13 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize and prioritize the tasks in a logical manner. 
  .Secondly, wisely plan the time. Time management is crucial in programming. Use tools like POMO (Piece of My Time) technique or time blocking to manage your work time effectively. Plan your breaks and rest time as well to avoid fatigue and maintain your focus. It is also essential to learn how to estimate the duration of a task accurately to ensure you have enough time to complete it. Finally, avoid multitasking as it can lead to decreased efficiency and quality of work. Instead, focus on one task at a time and switch between them when needed.
+
+# 2024-01-26
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function,and class names that accurately represent their purpose and functionality.
+2. Organize code into logical, modular blocks that follow the Single Responsibility Principle (SRP).This means each block should perform one and only one task. 
+3. Follow the DRY (Don't Repeat Yourself) principle by avoiding duplicating code wherever possible. Instead, use functions, methods, or classes to reuse code.  
+4. Write concise and expressive comments to explain code logic and purpose. Comments should be used sparingly, however, as they can sometimes make code more difficult to read.   
+5. Utilize version control systems, such as Git, to track code changes and collaborate with teammates.    
+6. Continuously learn and stay up-do-date with new programming languages, frameworks, tools, best-practices, etc. to improve your coding skills and efficiency.
