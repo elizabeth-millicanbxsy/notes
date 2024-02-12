@@ -402,3 +402,10 @@ Translation:
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. Always strive to write clean, maintainable code that's easy to understand and reason about. Remember, you're not just writing code for machines to execute; you're writing it for other humans to read, review, and build upon. Complex systems often stem from simple, well-designed foundations. So in your coding endeavors today, favor simplicity over complexity unless absolutely necessary." 
 
 In practice, this means choosing clear variable names, breaking down complex problems into smaller functions or modules, adhering to established design patterns, avoiding premature optimization, and consistently documenting your code.
+
+# 2024-02-12
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them. 
+ 其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以使用番茄工作法（Pomodoro Technique）等时间管理技巧来提高效率。这种方法将工作时间分为25分钟的工作区段，然后休息5分钟的休息时间。每完成四个工作区后，休息15-30分钟。这有助于保持注意力并避免疲劳。
+ 最后，保持组织。一个整洁、有组织的代码库可以帮助你更快地找到问题并解决问题。使用版本控制系统（如Git）来跟踪代码更改，并确保你的代码遵循一致的命名约定和代码规范。这将使你的团队更容易协作，同时也有助于保持代码的可读性和可维护性。
