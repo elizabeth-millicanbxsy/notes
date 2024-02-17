@@ -426,3 +426,6 @@ Remember, every line of code you write is a liability until proven otherwise; ke
 
 Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help to keep you focused. 
  - 来自NLP
+
+# 2024-02-17
+- "Today's programming wisdom is: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, this translates to striving for clear, concise, and readable code that can be easily understood and maintained by others. It's about choosing the right algorithms, data structures, and abstractions that solve the problem at hand without unnecessary complexity. Always remember that code is written once but read many times over, so keep it simple and elegant."
