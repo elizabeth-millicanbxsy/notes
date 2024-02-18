@@ -429,3 +429,8 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2024-02-17
 - "Today's programming wisdom is: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, this translates to striving for clear, concise, and readable code that can be easily understood and maintained by others. It's about choosing the right algorithms, data structures, and abstractions that solve the problem at hand without unnecessary complexity. Always remember that code is written once but read many times over, so keep it simple and elegant."
+
+# 2024-02-18
+- Today's programming wisdom is: "Premature optimization is the root of all evil." — Donald Knuth
+
+In fewer words, this quote highlights that focusing on optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potential misdirection of effort. It's more efficient to first create working, maintainable code, then optimize only where and when profiling indicates a genuine need for improved performance. This principle encourages developers to write clean, clear code with an emphasis on readability and functionality before diving into optimizations.
